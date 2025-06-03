@@ -1,4 +1,4 @@
-module github.com/Sabareesh001/authentication-go.git
+module github.com/Sabareesh001/auth-go.git
 
 go 1.24.3
 
